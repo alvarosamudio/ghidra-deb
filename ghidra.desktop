@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Ghidra
+Version=1.0
+Exec=/opt/ghidra/ghidraRun
+Icon=/opt/ghidra/docs/GhidraClass/Intermediate/Images/GhidraLogo64.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
